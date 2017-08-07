@@ -1,5 +1,3 @@
-require "money/version"
-
-module Money
-  # Your code goes here...
-end
+require 'money/configuration'
+require 'money/arithmetic'
+require 'money/money'
